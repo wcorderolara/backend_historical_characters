@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "wktoa2",
+    "password": "HistoricalCh@r@cters",
+    "database": "wktoa2db",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "define": {
+      "charset": "utf8"
+    }
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
