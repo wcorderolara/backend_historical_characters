@@ -93,7 +93,7 @@ CREATE USER 'wktoa2'@'localhost'
  ```
  Esto ejecutara nuestro proyecto si todo funciona correctamente (si hemos hecho bien la configuracion) debera aparecer el siguiente mensaje en consola:
  ```javascript
- %s Country Api is Up! %s
+ %s Historical Characters Api is Up! %s
  ```
  Para verificar que las tablas se crearon correctamente, podemos ver desde *workbench o phpmyadmin* que existan las siguientes tablas:
   * historicalcharacter
