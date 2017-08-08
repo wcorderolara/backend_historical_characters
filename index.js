@@ -37,7 +37,7 @@ var server = app.listen(port, function(err){
 	if(err){
 		console.error(err);
 	}else{
-		console.log('%s listening at %s', server.name, server.url);
+		console.log('%s Historical Characters API is Up! %s');
 	}
 });
 
